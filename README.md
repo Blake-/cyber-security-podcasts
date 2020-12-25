@@ -108,5 +108,23 @@ Exotic Liability: https://www.stitcher.com/show/exotic-liability
 
 The Hacker Mind: https://thehackermind.com/
 
+Open Source Security: https://opensourcesecurity.io/
 
+Crypto-Gram Security Podcast (Audio of Bruce Schneier's Monthly Crypto-Gram Security Newsletter) : https://crypto-gram.libsyn.com/
+
+The SEI Podcast Series: https://www.sei.cmu.edu/publications/podcasts/index.cfm
+
+The CyberWire podcasts: https://www.thecyberwire.com/podcasts
+
+Security Current: https://securitycurrent.com/podcasts/
+
+Data Breach Today: http://www.databreachtoday.com/interviews.php
+
+Defrag This: https://blog.ipswitch.com/topic/podcasts
+
+Threatpost: https://threatpost.com/category/podcasts/
+
+The Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
+
+Cyber Security Interviews: https://cybersecurityinterviews.com/
 A curated playlist of Operational Technology and ICS Cyber Security related podcast episodes : https://www.listennotes.com/listen/beerisac-cpsics-security-podcast-playlist-j-G0QwC8Zsu/?display=episode
