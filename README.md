@@ -127,4 +127,5 @@ Threatpost: https://threatpost.com/category/podcasts/
 The Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
 
 Cyber Security Interviews: https://cybersecurityinterviews.com/
+
 A curated playlist of Operational Technology and ICS Cyber Security related podcast episodes : https://www.listennotes.com/listen/beerisac-cpsics-security-podcast-playlist-j-G0QwC8Zsu/?display=episode
