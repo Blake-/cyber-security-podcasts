@@ -128,4 +128,10 @@ The Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
 
 Cyber Security Interviews: https://cybersecurityinterviews.com/
 
+The Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
+
+The Shared Security Podcast: https://sharedsecurity.net/podcast-episodes/
+
+CyberWire Daily: https://thecyberwire.com/podcasts/daily-podcast
+
 A curated playlist of Operational Technology and ICS Cyber Security related podcast episodes : https://www.listennotes.com/listen/beerisac-cpsics-security-podcast-playlist-j-G0QwC8Zsu/?display=episode
