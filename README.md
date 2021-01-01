@@ -29,6 +29,8 @@ CYBER from Vice.com: https://www.vice.com/en/topic/cyber
 
 Cyber Humantiy from Immersive: https://www.immersivelabs.com/resources/podcast/
 
+Cyber Risk Management: https://www.cyberriskopportunities.com/cyber-risk-resources/cyber-risk-management-podcast/
+
 Cyber Security Interviews: https://cybersecurityinterviews.com/
 
 Cyber Security Sauna: https://www.f-secure.com/en/business/podcasts/cyber-security-sauna
@@ -47,6 +49,8 @@ Data Breach Today: http://www.databreachtoday.com/interviews.php
 
 Day Zero [0] https://dayzerosec.com/
 
+Defensive Security Podcast: https://defensivesecurity.org/category/podcast/
+
 Defrag This: https://blog.ipswitch.com/topic/podcasts
 
 Detections: https://www.detections.org/
@@ -54,6 +58,8 @@ Detections: https://www.detections.org/
 DevSecOps Podcasts: https://www.devsecopsdays.com/dso-podcasts
 
 Down The Security Rabbithole: http://podcast.wh1t3rabbit.net/
+
+ESET: https://www.eset.com/us/about/newsroom/podcast-list/
 
 Exotic Liability: https://www.stitcher.com/show/exotic-liability
 
@@ -93,6 +99,8 @@ SecTools Podcast Series from Infosec Campus: https://infoseccampus.com/
 
 Security Current: https://securitycurrent.com/podcasts/
 
+Security Headlines: https://anchor.fm/firo-solutions
+
 Security In 5: https://securityinfive.com/
 
 Security In Color: https://anchor.fm/sic
@@ -107,9 +115,13 @@ Shared Security: https://sharedsecurity.net/
 
 Smashing Security: https://www.smashingsecurity.com/
 
+TEISS: https://www.teiss.co.uk/category/media/podcast/
+
 The Azure Security Podcast : https://azsecuritypodcast.azurewebsites.net/
 
 The Bughunter: https://pentester.land/podcast
+
+The 443: https://www.secplicity.org/category/the-443/
 
 The Cyber Wire: https://www.thecyberwire.com/podcasts
 
