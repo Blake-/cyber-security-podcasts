@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Cyber Security Podcasts OPML File</title>
+	</head>
+	<body>
+		<outline text="feeds">
+        <outline type="rss" text="7 Minute Security" xmlUrl="https://7minsec.com/" />
+        <outline type="rss" text="Absolute Appsec" xmlUrl="https://absoluteappsec.com/" />
+		</outline>
+	</body>
+</opml>
