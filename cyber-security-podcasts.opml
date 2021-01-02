@@ -5,8 +5,10 @@
 	</head>
 	<body>
 		<outline text="feeds">
-        <outline type="rss" text="7 Minute Security" xmlUrl="https://7minsec.com/" />
-        <outline type="rss" text="Absolute Appsec" xmlUrl="https://absoluteappsec.com/" />
+                      <outline type="rss" text="7 Minute Security" xmlUrl="https://7ms.us/rss/" />
+                      <outline type="rss" text="Absolute Appsec" xmlUrl="https://absoluteappsec.com/" />
+                      <outline type="rss" text="AppSec Podcast" xmlUrl="https://podcast.securityjourney.com/feed/podcast/" />
+                      <outline type="rss" text="AWS Morning Brief" xmlUrl="https://www.lastweekinaws.com/feed/" />
 		</outline>
 	</body>
 </opml>
