@@ -63,6 +63,8 @@ ESET: https://www.eset.com/us/about/newsroom/podcast-list/
 
 Exotic Liability: https://www.stitcher.com/show/exotic-liability
 
+Great Security Debate: https://www.greatsecuritydebate.net/
+
 Hacker Valley: https://hackervalley.com/
 
 Hacking Humans: https://thecyberwire.com/podcasts/hacking-humans
