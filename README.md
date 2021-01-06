@@ -1,7 +1,7 @@
 # cyber-security-podcasts
 A big list of IT Security / Cybersecurity Podcasts
 
-Tanya Janca ([@shehackspurple](https://twitter.com/shehackspurple/s)) asked on [The Twitters](https://twitter.com/shehackspurple/status/1341920266021027842) The other day "What are your favourite security podcasts? Name as many as you want. :-D" and there was a HUGE response. I pulled out all the links I could and collected them here. Let me know if I missed your favorite.
+Tanya Janca ([@shehackspurple](https://twitter.com/shehackspurple/s)) asked on [The Twitters](https://twitter.com/shehackspurple/status/1341920266021027842) The other day `"What are your favourite security podcasts? Name as many as you want. :-D"` and there was a HUGE response. I pulled out all the links I could and collected them here. Let me know if I missed your favorite.
 
 
 
@@ -74,6 +74,8 @@ Human Factor: https://humanfactorsecurity.co.uk/podcast-2/
 Identity at the center: https://www.identityatthecenter.com/listen
 
 Identity, Unlocked:  https://identityunlocked.auth0.com/public/49/Identity%2C-Unlocked.--bed7fada/3a164a46
+
+Infosec Unplugged: https://alphacybersecurity.tech/infosec-unplugged/
 
 Insider Threat: https://podcast.insiderthreatpodcast.com/
 
