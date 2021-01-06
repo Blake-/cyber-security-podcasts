@@ -149,6 +149,8 @@ Threatpost: https://threatpost.com/category/podcasts/
 
 Threatwire: https://snubsie.com/threatwire
 
+Trust Me I'm Certified: https://www.giac.org/podcasts
+
 Unsupervised Learning: https://danielmiessler.com/podcast/
 
 We Hack Purple: https://wehackpurple.com/podcast.html
