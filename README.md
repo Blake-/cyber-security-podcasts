@@ -99,6 +99,8 @@ Nolog: https://twitter.com/NologPodcast
 
 Open Source Security: https://opensourcesecurity.io/
 
+PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
+
 Rational Security: https://www.lawfareblog.com/topic/rational-security
 
 Rebooting: https://www.youtube.com/c/RebootingVlog
@@ -123,21 +125,15 @@ Security Now: https://twit.tv/shows/security-now
 
 Security Weekly: https://securityweekly.com/subscribe/
 
+The SEI Podcast Series: https://www.sei.cmu.edu/publications/podcasts/index.cfm
+
 Shared Security: https://sharedsecurity.net/
 
 Smashing Security: https://www.smashingsecurity.com/
 
+Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
+
 TEISS: https://www.teiss.co.uk/category/media/podcast/
-
-The PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
-
-The SEI Podcast Series: https://www.sei.cmu.edu/publications/podcasts/index.cfm
-
-The Shared Security Podcast: https://sharedsecurity.net/podcast-episodes/
-
-The Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
-
-The Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
 
 Threatpost: https://threatpost.com/category/podcasts/
 
