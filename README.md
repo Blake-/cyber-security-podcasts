@@ -3,7 +3,7 @@ A big list of IT Security / Cybersecurity Podcasts
 
 Tanya Janca ([@shehackspurple](https://twitter.com/shehackspurple/s)) asked on [The Twitters](https://twitter.com/shehackspurple/status/1341920266021027842) The other day `"What are your favourite security podcasts? Name as many as you want. :-D"` and there was a HUGE response. I pulled out all the links I could and collected them here. Let me know if I missed your favorite.
 
-
+443: https://www.secplicity.org/category/the-443/
 
 7 Minute Security: https://7minsec.com/
 
@@ -13,11 +13,15 @@ AppSec Podcast: https://podcast.securityjourney.com/
 
 AWS Morning Breif: https://www.lastweekinaws.com/podcast/
 
+Azure Security Podcast : https://azsecuritypodcast.azurewebsites.net/
+
 Black Hills: https://www.blackhillsinfosec.com/podcasts/
 
 Blue Print: https://www.sans.org/blueprint-podcast
 
 Blue Security: https://anchor.fm/blue-security-podcast
+
+Bughunter: https://pentester.land/podcast
 
 Brakeing Down Security: https://www.brakeingsecurity.com/
 
@@ -124,14 +128,6 @@ Shared Security: https://sharedsecurity.net/
 Smashing Security: https://www.smashingsecurity.com/
 
 TEISS: https://www.teiss.co.uk/category/media/podcast/
-
-The Azure Security Podcast : https://azsecuritypodcast.azurewebsites.net/
-
-The Bughunter: https://pentester.land/podcast
-
-The 443: https://www.secplicity.org/category/the-443/
-
-
 
 The PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
 
