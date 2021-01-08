@@ -65,6 +65,8 @@ Exotic Liability: https://www.stitcher.com/show/exotic-liability
 
 Great Security Debate: https://www.greatsecuritydebate.net/
 
+Hacker Mind: https://thehackermind.com/
+
 Hacker Valley: https://hackervalley.com/
 
 Hacking Humans: https://thecyberwire.com/podcasts/hacking-humans
@@ -129,11 +131,7 @@ The Bughunter: https://pentester.land/podcast
 
 The 443: https://www.secplicity.org/category/the-443/
 
-The Cyber Wire: https://www.thecyberwire.com/podcasts
 
-The CyberWire podcasts: https://www.thecyberwire.com/podcasts
-
-The Hacker Mind: https://thehackermind.com/
 
 The PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
 
