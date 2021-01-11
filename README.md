@@ -81,6 +81,8 @@ Identity at the center: https://www.identityatthecenter.com/listen
 
 Identity, Unlocked:  https://identityunlocked.auth0.com/public/49/Identity%2C-Unlocked.--bed7fada/3a164a46
 
+IDS Podcast: https://intrusionds.com/podcast/
+
 Infosec Unplugged: https://alphacybersecurity.tech/infosec-unplugged/
 
 Insider Threat: https://podcast.insiderthreatpodcast.com/
