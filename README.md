@@ -29,6 +29,8 @@ CISO Series: https://cisoseries.com/podcast/
 
 Crypto-Gram Security Podcast (Audio of Bruce Schneier's Monthly Crypto-Gram Security Newsletter) : https://crypto-gram.libsyn.com/
 
+Cyber Crime Radio: https://soundcloud.com/cybercrimemagazine
+
 CYBER from Vice.com: https://www.vice.com/en/topic/cyber
 
 Cyber Humantiy from Immersive: https://www.immersivelabs.com/resources/podcast/
