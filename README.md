@@ -24,6 +24,8 @@ Blue Security: https://anchor.fm/blue-security-podcast
 
 Bughunter: https://pentester.land/podcast
 
+Business of Security Podcast: https://154688.buzzsprout.com/154688
+
 Brakeing Down Security: https://www.brakeingsecurity.com/
 
 CISO Series: https://cisoseries.com/podcast/
@@ -48,6 +50,8 @@ Cyberlaw Podcast: https://www.lawfareblog.com/topic/cyberlaw-podcast
 
 CyberWire Daily: https://thecyberwire.com/podcasts/daily-podcast
 
+Cyber Work Podcast: https://www.infosecinstitute.com/podcast/
+
 Daily Information Security Podcast ("StormCast") https://isc.sans.edu/podcast.html
 
 Darknet Diaries: https://darknetdiaries.com/
@@ -64,11 +68,15 @@ Detections: https://www.detections.org/
 
 DevSecOps Podcasts: https://www.devsecopsdays.com/dso-podcasts
 
+Digital Forensic Survival Podcast: https://digitalforensicsurvivalpodcast.com/
+
 Down The Security Rabbithole: http://podcast.wh1t3rabbit.net/
 
 ESET: https://www.eset.com/us/about/newsroom/podcast-list/
 
 Exotic Liability: https://www.stitcher.com/show/exotic-liability
+
+GDPR Now: https://gdprnow.fireside.fm/
 
 Great Security Debate: https://www.greatsecuritydebate.net/
 
@@ -90,6 +98,8 @@ Infosec Unplugged: https://alphacybersecurity.tech/infosec-unplugged/
 
 Insider Threat: https://podcast.insiderthreatpodcast.com/
 
+ISAC: https://isacapodcast.podbean.com/
+
 Le Comptoir Sécu: https://twitter.com/comptoirsecu
 
 Maleware Bytes: https://blog.malwarebytes.com/category/podcast/
@@ -106,13 +116,19 @@ Open Source Security: https://opensourcesecurity.io/
 
 PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
 
+Random but Memorable: https://randombutmemorable.simplecast.com/
+
 Rational Security: https://www.lawfareblog.com/topic/rational-security
 
 Rebooting: https://www.youtube.com/c/RebootingVlog
 
+Recorded Future: https://www.recordedfuture.com/resources/podcast/
+
 Reddup Securty: https://reddupsec.podbean.com/
 
 Risky Business https://risky.biz
+
+Section 9: https://section9.us/podcast
 
 SecTools Podcast Series from Infosec Campus: https://infoseccampus.com/
 
@@ -128,6 +144,8 @@ Security Legder: https://securityledger.com/category/podcasts/
 
 Security Now: https://twit.tv/shows/security-now
 
+Security Voices: https://podcasts.apple.com/us/podcast/security-voices/id1453414483
+
 Security Weekly: https://securityweekly.com/subscribe/
 
 The SEI Podcast Series: https://www.sei.cmu.edu/publications/podcasts/index.cfm
@@ -138,13 +156,19 @@ Smashing Security: https://www.smashingsecurity.com/
 
 Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
 
+Southern Fried Security: https://southernfriedsecurity.com/ (retired)
+
 TEISS: https://www.teiss.co.uk/category/media/podcast/
 
 Threatpost: https://threatpost.com/category/podcasts/
 
 Threatwire: https://snubsie.com/threatwire
 
+To The Point: https://podcasts.apple.com/us/podcast/to-the-point-cybersecurity/id1438873656
+
 Trust Me I'm Certified: https://www.giac.org/podcasts
+
+Unsecurity: https://podcasts.apple.com/us/podcast/unsecurity-information-security-podcast/id1442520920
 
 Unsupervised Learning: https://danielmiessler.com/podcast/
 
