@@ -56,6 +56,8 @@ Darknet Diaries: https://darknetdiaries.com/
 
 Data Breach Today: http://www.databreachtoday.com/interviews.php
 
+Data Privacy Podcast: https://dataprivacypod.com/page/
+
 Day Zero [0] https://dayzerosec.com/
 
 Defensive Security Podcast: https://defensivesecurity.org/category/podcast/
@@ -112,6 +114,8 @@ Nolog: https://twitter.com/NologPodcast
 
 Open Source Security: https://opensourcesecurity.io/
 
+Privacy Advisor Podcast: https://iapp.org/news/privacy-advisor-podcast/
+
 PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
 
 Random but Memorable: https://randombutmemorable.simplecast.com/
@@ -147,6 +151,8 @@ Security Voices: https://podcasts.apple.com/us/podcast/security-voices/id1453414
 Security Weekly: https://securityweekly.com/subscribe/
 
 The SEI Podcast Series: https://www.sei.cmu.edu/publications/podcasts/index.cfm
+
+Serious Privacy Podcast: https://trustarc.com/resource_types/privacy-podcasts/
 
 Shared Security: https://sharedsecurity.net/
 
