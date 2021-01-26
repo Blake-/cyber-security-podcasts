@@ -28,6 +28,8 @@ Brakeing Down Security: https://www.brakeingsecurity.com/
 
 CISO Series: https://cisoseries.com/podcast/
 
+Cloud Security: https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I
+
 Crypto-Gram Security Podcast (Audio of Bruce Schneier's Monthly Crypto-Gram Security Newsletter) : https://crypto-gram.libsyn.com/
 
 Cyber Crime Radio: https://soundcloud.com/cybercrimemagazine
@@ -37,6 +39,8 @@ CYBER from Vice.com: https://www.vice.com/en/topic/cyber
 Cyber Humantiy from Immersive: https://www.immersivelabs.com/resources/podcast/
 
 Cyber Risk Management: https://www.cyberriskopportunities.com/cyber-risk-resources/cyber-risk-management-podcast/
+
+Cyber Security Headlines: https://open.spotify.com/show/5ylaiuoDj7YOVSdyVJMDR7
 
 Cyber Security Interviews: https://cybersecurityinterviews.com/
 
@@ -94,6 +98,8 @@ Identity, Unlocked:  https://identityunlocked.auth0.com/public/49/Identity%2C-Un
 
 IDS Podcast: https://intrusionds.com/podcast/
 
+Information Security Podcast: https://open.spotify.com/show/7ffNrjl1siS2OSxQzy92QN
+
 Infosec Unplugged: https://alphacybersecurity.tech/infosec-unplugged/
 
 Insider Threat: https://podcast.insiderthreatpodcast.com/
@@ -109,6 +115,8 @@ Maleware Bytes: https://blog.malwarebytes.com/category/podcast/
 Malicious Life: https://malicious.life/
 
 Naked Security: https://nakedsecurity.sophos.com/
+
+National Security Law: https://open.spotify.com/show/4ia0DCAR3SzqWaL76EaEnH
 
 Nolimit: https://twitter.com/nolimitsecu
 
