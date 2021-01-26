@@ -100,6 +100,8 @@ Insider Threat: https://podcast.insiderthreatpodcast.com/
 
 ISAC: https://isacapodcast.podbean.com/
 
+Layer 8 Podcast: https://open.spotify.com/show/0MH2NGE24DJNFdZBvGiXmv
+
 Le Comptoir Sécu: https://twitter.com/comptoirsecu
 
 Maleware Bytes: https://blog.malwarebytes.com/category/podcast/
