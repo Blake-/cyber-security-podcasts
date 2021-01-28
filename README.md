@@ -48,6 +48,8 @@ Cyber Security Sauna: https://www.f-secure.com/en/business/podcasts/cyber-securi
 
 Cyber Security Today: https://securitytoday.com/articles/list/cybersecurity.aspx
 
+Cyber Society Podcast: https://www.itspmagazine.com/the-cyber-society
+
 Cyberlaw Podcast: https://www.lawfareblog.com/topic/cyberlaw-podcast
 
 CyberWire Daily: https://thecyberwire.com/podcasts/daily-podcast
@@ -137,6 +139,8 @@ Rational Security: https://www.lawfareblog.com/topic/rational-security
 Rebooting: https://www.youtube.com/c/RebootingVlog
 
 Recorded Future: https://www.recordedfuture.com/resources/podcast/
+
+Redefining Security Podcast: https://www.itspmagazine.com/redefining-security
 
 Reddup Securty: https://reddupsec.podbean.com/
 
