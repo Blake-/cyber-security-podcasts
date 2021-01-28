@@ -1,7 +1,5 @@
 # A big list of IT Security / Cybersecurity Podcasts
 
-Tanya Janca ([@shehackspurple](https://twitter.com/shehackspurple/s)) asked on [The Twitters](https://twitter.com/shehackspurple/status/1341920266021027842) The other day `"What are your favourite security podcasts? Name as many as you want. :-D"` and there was a HUGE response. I pulled out all the links I could and collected them here. Let me know if I missed your favorite.
-
 443: https://www.secplicity.org/category/the-443/
 
 7 Minute Security: https://7minsec.com/
@@ -198,3 +196,7 @@ We Hack Purple: https://wehackpurple.com/podcast.html
 
 
 A curated playlist of Operational Technology and ICS Cyber Security related podcast episodes : https://www.listennotes.com/listen/beerisac-cpsics-security-podcast-playlist-j-G0QwC8Zsu/?display=episode
+
+
+
+This list started from a call where Tanya Janca ([@shehackspurple](https://twitter.com/shehackspurple/s)) asked on [The Twitters](https://twitter.com/shehackspurple/status/1341920266021027842) The other day `"What are your favourite security podcasts? Name as many as you want. :-D"` and there was a HUGE response. I pulled out all the links I could and collected them here. Let me know if I missed your favorite.
