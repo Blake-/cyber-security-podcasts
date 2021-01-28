@@ -114,6 +114,8 @@ Maleware Bytes: https://blog.malwarebytes.com/category/podcast/
 
 Malicious Life: https://malicious.life/
 
+Many Hats Club: https://themanyhats.club/tag/episodes/
+
 Naked Security: https://nakedsecurity.sophos.com/
 
 National Security Law: https://open.spotify.com/show/4ia0DCAR3SzqWaL76EaEnH
