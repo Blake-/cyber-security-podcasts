@@ -192,6 +192,8 @@ Trust Me I'm Certified: https://www.giac.org/podcasts
 
 Unsecurity: https://podcasts.apple.com/us/podcast/unsecurity-information-security-podcast/id1442520920
 
+Your Everyday Cyber Podcast: https://www.itspmagazine.com/your-everyday-cyber-podcast
+
 Unsupervised Learning: https://danielmiessler.com/podcast/
 
 We Hack Purple: https://wehackpurple.com/podcast.html
