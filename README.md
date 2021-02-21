@@ -76,6 +76,8 @@ Digital Forensic Survival Podcast: https://digitalforensicsurvivalpodcast.com/
 
 Down The Security Rabbithole: http://podcast.wh1t3rabbit.net/
 
+Easy Prey: https://www.easyprey.com/
+
 ESET: https://www.eset.com/us/about/newsroom/podcast-list/
 
 Exotic Liability: https://www.stitcher.com/show/exotic-liability
