@@ -148,6 +148,8 @@ Risky Business https://risky.biz
 
 Section 9: https://section9.us/podcast
 
+Secjuice Radio: https://secjuice.podbean.com/
+
 SecTools Podcast Series from Infosec Campus: https://infoseccampus.com/
 
 Security Current: https://securitycurrent.com/podcasts/
