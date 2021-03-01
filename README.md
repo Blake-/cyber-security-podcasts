@@ -1,5 +1,7 @@
 # A big list of IT Security / Cybersecurity Podcasts
 
+10QuestionsPodcast: https://anchor.fm/10questions/
+
 443: https://www.secplicity.org/category/the-443/
 
 7 Minute Security: https://7minsec.com/
