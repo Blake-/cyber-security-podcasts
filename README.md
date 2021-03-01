@@ -128,6 +128,8 @@ Nolog: https://twitter.com/NologPodcast
 
 Open Source Security: https://opensourcesecurity.io/
 
+Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
+
 Privacy Advisor Podcast: https://iapp.org/news/privacy-advisor-podcast/
 
 PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
