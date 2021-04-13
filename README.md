@@ -114,6 +114,8 @@ Layer 8 Podcast: https://open.spotify.com/show/0MH2NGE24DJNFdZBvGiXmv
 
 Le Comptoir Sécu: https://twitter.com/comptoirsecu
 
+Lock and Code: https://podcasts.apple.com/us/podcast/lock-and-code/id1500049667
+
 Maleware Bytes: https://blog.malwarebytes.com/category/podcast/
 
 Malicious Life: https://malicious.life/
