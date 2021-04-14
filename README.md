@@ -66,6 +66,8 @@ Data Privacy Podcast: https://dataprivacypod.com/page/
 
 Day Zero [0] https://dayzerosec.com/
 
+Debugger: https://podcasts.apple.com/us/podcast/debugger/id1513813636
+
 Defensive Security Podcast: https://defensivesecurity.org/category/podcast/
 
 Defrag This: https://blog.ipswitch.com/topic/podcasts
