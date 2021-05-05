@@ -62,6 +62,8 @@ Darknet Diaries: https://darknetdiaries.com/
 
 Data Breach Today: http://www.databreachtoday.com/interviews.php
 
+Data Privacy Detective: https://podcasts.apple.com/us/podcast/data-privacy-detective-how-data-is-regulated-managed/id1163824655
+
 Data Privacy Podcast: https://dataprivacypod.com/page/
 
 Day Zero [0] https://dayzerosec.com/
