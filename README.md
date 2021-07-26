@@ -1,6 +1,6 @@
 # A big list of IT Security / Cybersecurity Podcasts
 
-10QuestionsPodcast: https://anchor.fm/10questions/
+10 Questions Podcast: https://anchor.fm/10questions/
 
 443: https://www.secplicity.org/category/the-443/
 
@@ -142,7 +142,7 @@ Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
 
 Privacy Advisor Podcast: https://iapp.org/news/privacy-advisor-podcast/
 
-PRIVACY, SECURITY, & OSINT Show: https://inteltechniques.com/podcast.html
+Privacy, Security, & OSINT Show: https://inteltechniques.com/podcast.html
 
 Random but Memorable: https://randombutmemorable.simplecast.com/
 
@@ -208,11 +208,11 @@ Trust Me I'm Certified: https://www.giac.org/podcasts
 
 Unsecurity: https://podcasts.apple.com/us/podcast/unsecurity-information-security-podcast/id1442520920
 
-Your Everyday Cyber Podcast: https://www.itspmagazine.com/your-everyday-cyber-podcast
-
 Unsupervised Learning: https://danielmiessler.com/podcast/
 
 We Hack Purple: https://wehackpurple.com/podcast.html
+
+Your Everyday Cyber Podcast: https://www.itspmagazine.com/your-everyday-cyber-podcast
 
 
 A curated playlist of Operational Technology and ICS Cyber Security related podcast episodes : https://www.listennotes.com/listen/beerisac-cpsics-security-podcast-playlist-j-G0QwC8Zsu/?display=episode
