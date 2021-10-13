@@ -92,6 +92,8 @@ GDPR Now: https://gdprnow.fireside.fm/
 
 Great Security Debate: https://www.greatsecuritydebate.net/
 
+The Hacker Factory: https://www.itspmagazine.com/the-hacker-factory-podcast
+
 Hacker Mind: https://thehackermind.com/
 
 Hacker Valley: https://hackervalley.com/
