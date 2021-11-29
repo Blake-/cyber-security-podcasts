@@ -6,6 +6,8 @@
 
 7 Minute Security: https://7minsec.com/
 
+Abricto Security Podcast: https://www.buzzsprout.com/1874302
+
 Absolute Appsec: https://absoluteappsec.com/
 
 AppSec Podcast: https://podcast.securityjourney.com/
