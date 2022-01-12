@@ -22,6 +22,8 @@ Blue Print: https://www.sans.org/blueprint-podcast
 
 Blue Security: https://anchor.fm/blue-security-podcast
 
+Breaking Into Cybersecurity: https://anchor.fm/breakingintocybersecurity
+
 Bughunter: https://pentester.land/podcast
 
 Business of Security Podcast: https://154688.buzzsprout.com/154688
