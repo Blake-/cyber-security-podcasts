@@ -50,6 +50,8 @@ Cyber Security Sauna: https://www.f-secure.com/en/business/podcasts/cyber-securi
 
 Cyber Security Today: https://securitytoday.com/articles/list/cybersecurity.aspx
 
+Cyber Security with Bob G: https://anchor.fm/norbert-gostischa
+
 Cyber Society Podcast: https://www.itspmagazine.com/the-cyber-society
 
 Cyberlaw Podcast: https://www.lawfareblog.com/topic/cyberlaw-podcast
