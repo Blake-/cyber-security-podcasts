@@ -38,6 +38,8 @@ Cyber Crime Radio: https://soundcloud.com/cybercrimemagazine
 
 CYBER from Vice.com: https://www.vice.com/en/topic/cyber
 
+The Cyber Pro Podcast: https://cyberpropodcast.podbean.com/
+
 Cyber Humantiy from Immersive: https://www.immersivelabs.com/resources/podcast/
 
 Cyber Risk Management: https://www.cyberriskopportunities.com/cyber-risk-resources/cyber-risk-management-podcast/
