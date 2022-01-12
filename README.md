@@ -190,6 +190,8 @@ Security Now: https://twit.tv/shows/security-now
 
 Security Stories from CISCO: cisco.com/c/en/us/products/security/securitystories.html
 
+Secure Ventures with Kyle McNulty: https://anchor.fm/kyle-mcnulty
+
 Security Voices: https://podcasts.apple.com/us/podcast/security-voices/id1453414483
 
 Security Weekly: https://securityweekly.com/subscribe/
