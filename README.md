@@ -46,6 +46,8 @@ Cyber Risk Management: https://www.cyberriskopportunities.com/cyber-risk-resourc
 
 Cyber Security Headlines: https://open.spotify.com/show/5ylaiuoDj7YOVSdyVJMDR7
 
+Cyber Security Inside: https://www.intel.com/content/www/us/en/security/cyber-security-inside.html
+
 Cyber Security Interviews: https://cybersecurityinterviews.com/
 
 Cyber Security Sauna: https://www.f-secure.com/en/business/podcasts/cyber-security-sauna
