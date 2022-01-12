@@ -148,6 +148,8 @@ Nolog: https://twitter.com/NologPodcast
 
 Open Source Security: https://opensourcesecurity.io/
 
+The Other Side Of The Firewall: https://anchor.fm/theothersideofthefirewall
+
 Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
 
 Privacy Advisor Podcast: https://iapp.org/news/privacy-advisor-podcast/
