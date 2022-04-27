@@ -200,6 +200,8 @@ Security Voices: https://podcasts.apple.com/us/podcast/security-voices/id1453414
 
 Security Weekly: https://securityweekly.com/subscribe/
 
+Securityzed: https://www.securityzed.com/podcast-test
+
 The SEI Podcast Series: https://www.sei.cmu.edu/publications/podcasts/index.cfm
 
 Serious Privacy Podcast: https://trustarc.com/resource_types/privacy-podcasts/
