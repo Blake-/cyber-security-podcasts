@@ -1,16 +1,12 @@
 # A big list of IT Security / Cybersecurity Podcasts
 
-10 Questions Podcast: https://anchor.fm/10questions/
-
 443: https://www.secplicity.org/category/the-443/
 
-7 Minute Security: https://7minsec.com/
+7 Minute Security: https://7minsec.com/projects/podcast
 
 Abricto Security Podcast: https://www.buzzsprout.com/1874302
 
 Absolute Appsec: https://absoluteappsec.com/
-
-AppSec Podcast: https://podcast.securityjourney.com/
 
 AWS Morning Breif: https://www.lastweekinaws.com/podcast/
 
@@ -236,6 +232,15 @@ We Hack Purple: https://wehackpurple.com/podcast.html
 
 Your Everyday Cyber Podcast: https://www.itspmagazine.com/your-everyday-cyber-podcast
 
+---
+
+Seems to have stopped podcasting:
+
+10 Questions Podcast: https://anchor.fm/10questions/
+
+AppSec Podcast: https://podcast.securityjourney.com/
+
+---
 
 A curated playlist of Operational Technology and ICS Cyber Security related podcast episodes : https://www.listennotes.com/listen/beerisac-cpsics-security-podcast-playlist-j-G0QwC8Zsu/?display=episode
 
