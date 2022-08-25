@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<opml version="1.0">
+<?xml version="1.0" encoding="utf8" standalone="yes"?>
+<opml version="1.1">
 	<head>
 		<title>Cyber Security Podcasts OPML File</title>
+		<dateCreated>2022-08-25 22:27:38</dateCreated>
+		<dateModified>2022-08-25 22:27:38</dateModified>
 	</head>
 	<body>
-		<outline text="feeds">
-                      <outline type="rss" text="7 Minute Security" xmlUrl="https://7ms.us/rss/" />
-                      <outline type="rss" text="Absolute Appsec" xmlUrl="https://absoluteappsec.com/" />
-                      <outline type="rss" text="AppSec Podcast" xmlUrl="https://podcast.securityjourney.com/feed/podcast/" />
-                      <outline type="rss" text="AWS Morning Brief" xmlUrl="https://www.lastweekinaws.com/feed/" />
+		<outline text="Infosec Podcasts" title="Infosec Podcasts">
+			<outline text="The 443 - Security Simplified" title="The 443 - Security Simplified" type="rss" version="RSS" htmlUrl="https://www.secplicity.org/" xmlUrl="https://www.secplicity.org/feed/podcast/"/>
+			<outline text="7 Minute Security" title="7 Minute Security" type="rss" version="RSS" htmlUrl="https://7ms.us/" xmlUrl="https://feeds.libsyn.com/254153/rss"/>
+			<outline text="The Abricto Podcast" title="The Abricto Podcast" type="rss" version="RSS" htmlUrl="https://www.buzzsprout.com/1874302" xmlUrl="https://feeds.buzzsprout.com/1874302.rss"/>
+			<outline text="Absolute AppSec" title="Absolute AppSec" type="rss" version="RSS" htmlUrl="https://absoluteappsec.com" xmlUrl="https://absoluteappsec.com/rss.xml"/>
+			<outline text="AWS Morning Brief" title="AWS Morning Brief" type="rss" version="RSS" htmlUrl="https://www.lastweekinaws.com" xmlUrl="https://feeds.transistor.fm/aws-morning-brief"/>
+			<outline text="The Azure Security Podcast" title="The Azure Security Podcast" type="rss" version="RSS" htmlUrl="https://rss.com/podcasts/azsecpodcast" xmlUrl="https://media.rss.com/azsecpodcast/feed.xml"/>
 		</outline>
 	</body>
 </opml>
