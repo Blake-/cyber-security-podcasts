@@ -20,8 +20,6 @@ Blue Security: https://anchor.fm/blue-security-podcast
 
 Breaking Into Cybersecurity: https://anchor.fm/breakingintocybersecurity
 
-Bughunter: https://pentester.land/podcast
-
 Business of Security Podcast: https://154688.buzzsprout.com/154688
 
 Brakeing Down Security: https://www.brakeingsecurity.com/
@@ -239,6 +237,9 @@ Seems to have stopped podcasting:
 10 Questions Podcast: https://anchor.fm/10questions/
 
 AppSec Podcast: https://podcast.securityjourney.com/
+
+Bughunter: https://pentester.land/podcast
+
 
 ---
 
