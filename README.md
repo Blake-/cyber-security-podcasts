@@ -72,12 +72,6 @@ Debugger: https://podcasts.apple.com/us/podcast/debugger/id1513813636
 
 Defensive Security Podcast: https://defensivesecurity.org/category/podcast/
 
-Defrag This: https://blog.ipswitch.com/topic/podcasts
-
-Detections: https://www.detections.org/
-
-DevSecOps Podcasts: https://www.devsecopsdays.com/dso-podcasts
-
 Digital Forensic Survival Podcast: https://digitalforensicsurvivalpodcast.com/
 
 Down The Security Rabbithole: http://podcast.wh1t3rabbit.net/
@@ -85,8 +79,6 @@ Down The Security Rabbithole: http://podcast.wh1t3rabbit.net/
 Easy Prey: https://www.easyprey.com/
 
 ESET: https://www.eset.com/us/about/newsroom/podcast-list/
-
-Exotic Liability: https://www.stitcher.com/show/exotic-liability
 
 GDPR Now: https://gdprnow.fireside.fm/
 
@@ -235,6 +227,15 @@ AppSec Podcast: https://podcast.securityjourney.com/
 Bughunter: https://pentester.land/podcast
 
 Cyber Security Interviews: https://cybersecurityinterviews.com/
+
+Defrag This: https://blog.ipswitch.com/topic/podcasts
+
+Detections: https://www.detections.org/
+
+DevSecOps Podcasts: https://www.devsecopsdays.com/dso-podcasts
+
+Exotic Liability: https://www.stitcher.com/show/exotic-liability
+
 
 ---
 
