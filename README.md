@@ -42,17 +42,13 @@ Cyber Risk Management: https://www.cyberriskopportunities.com/cyber-risk-resourc
 
 Cyber Security Headlines: https://open.spotify.com/show/5ylaiuoDj7YOVSdyVJMDR7
 
-Cyber Security Inside: https://www.intel.com/content/www/us/en/security/cyber-security-inside.html
-
-Cyber Security Interviews: https://cybersecurityinterviews.com/
+Cyber Security Inside: https://cybersecurityinside.libsyn.com/
 
 Cyber Security Sauna: https://www.f-secure.com/en/business/podcasts/cyber-security-sauna
 
-Cyber Security Today: https://securitytoday.com/articles/list/cybersecurity.aspx
+Cyber Security Today: https://www.stitcher.com/show/securpod
 
 Cyber Security with Bob G: https://anchor.fm/norbert-gostischa
-
-Cyber Society Podcast: https://www.itspmagazine.com/the-cyber-society
 
 Cyberlaw Podcast: https://www.lawfareblog.com/topic/cyberlaw-podcast
 
@@ -238,6 +234,7 @@ AppSec Podcast: https://podcast.securityjourney.com/
 
 Bughunter: https://pentester.land/podcast
 
+Cyber Security Interviews: https://cybersecurityinterviews.com/
 
 ---
 
