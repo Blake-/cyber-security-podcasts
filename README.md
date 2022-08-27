@@ -98,21 +98,13 @@ Identity at the center: https://www.identityatthecenter.com/listen
 
 Identity, Unlocked:  https://identityunlocked.auth0.com/public/49/Identity%2C-Unlocked.--bed7fada/3a164a46
 
-IDS Podcast: https://intrusionds.com/podcast/
-
-Information Security Podcast: https://open.spotify.com/show/7ffNrjl1siS2OSxQzy92QN
-
 Infosec Prep Podcast: https://podcasts.apple.com/us/podcast/infosec-prep-podcast/id1498512252
-
-Infosec Unplugged: https://alphacybersecurity.tech/infosec-unplugged/
 
 Insider Threat: https://podcast.insiderthreatpodcast.com/
 
 ISAC: https://isacapodcast.podbean.com/
 
 Layer 8 Podcast: https://open.spotify.com/show/0MH2NGE24DJNFdZBvGiXmv
-
-Le Comptoir Sécu: https://twitter.com/comptoirsecu
 
 Lock and Code: https://podcasts.apple.com/us/podcast/lock-and-code/id1500049667
 
@@ -235,6 +227,14 @@ Detections: https://www.detections.org/
 DevSecOps Podcasts: https://www.devsecopsdays.com/dso-podcasts
 
 Exotic Liability: https://www.stitcher.com/show/exotic-liability
+
+IDS Podcast: https://intrusionds.com/podcast/
+
+Information Security Podcast: https://open.spotify.com/show/7ffNrjl1siS2OSxQzy92QN
+
+Infosec Unplugged: https://alphacybersecurity.tech/infosec-unplugged/
+
+Le Comptoir Sécu: https://twitter.com/comptoirsecu
 
 
 ---
