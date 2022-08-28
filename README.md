@@ -108,19 +108,15 @@ Layer 8 Podcast: https://open.spotify.com/show/0MH2NGE24DJNFdZBvGiXmv
 
 Lock and Code: https://podcasts.apple.com/us/podcast/lock-and-code/id1500049667
 
-Maleware Bytes: https://blog.malwarebytes.com/category/podcast/
+Maleware Bytes: https://www.malwarebytes.com/blog/category/podcast
 
 Malicious Life: https://malicious.life/
 
-Many Hats Club: https://themanyhats.club/tag/episodes/
-
 Naked Security: https://nakedsecurity.sophos.com/
 
-National Security Law: https://open.spotify.com/show/4ia0DCAR3SzqWaL76EaEnH
+National Security Law: https://www.nationalsecuritylawpodcast.com/
 
-Nolimit: https://twitter.com/nolimitsecu
-
-Nolog: https://twitter.com/NologPodcast
+Nolimit: https://www.nolimitsecu.fr/
 
 Open Source Security: https://opensourcesecurity.io/
 
@@ -236,6 +232,9 @@ Infosec Unplugged: https://alphacybersecurity.tech/infosec-unplugged/
 
 Le Comptoir Sécu: https://twitter.com/comptoirsecu
 
+Many Hats Club: https://themanyhats.club/tag/episodes/
+
+Nolog: https://twitter.com/NologPodcast
 
 ---
 
