@@ -122,8 +122,6 @@ Open Source Security: https://opensourcesecurity.io/
 
 The Other Side Of The Firewall: https://anchor.fm/theothersideofthefirewall
 
-Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
-
 Privacy Advisor Podcast: https://iapp.org/news/privacy-advisor-podcast/
 
 Privacy, Security, & OSINT Show: https://inteltechniques.com/podcast.html
@@ -235,6 +233,9 @@ Le Comptoir Sécu: https://twitter.com/comptoirsecu
 Many Hats Club: https://themanyhats.club/tag/episodes/
 
 Nolog: https://twitter.com/NologPodcast
+
+Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
+
 
 ---
 
