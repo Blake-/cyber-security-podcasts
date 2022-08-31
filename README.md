@@ -130,8 +130,6 @@ Random but Memorable: https://randombutmemorable.simplecast.com/
 
 Rational Security: https://www.lawfareblog.com/topic/rational-security
 
-Rebooting: https://www.youtube.com/c/RebootingVlog
-
 Recorded Future: https://www.recordedfuture.com/resources/podcast/
 
 Redefining Security Podcast: https://www.itspmagazine.com/redefining-security
@@ -235,6 +233,8 @@ Many Hats Club: https://themanyhats.club/tag/episodes/
 Nolog: https://twitter.com/NologPodcast
 
 Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
+
+Rebooting: https://www.youtube.com/c/RebootingVlog
 
 
 ---
