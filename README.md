@@ -130,11 +130,9 @@ Random but Memorable: https://randombutmemorable.simplecast.com/
 
 Rational Security: https://www.lawfareblog.com/topic/rational-security
 
-Recorded Future: https://www.recordedfuture.com/resources/podcast/
+Recorded Future: https://therecord.media/podcast/
 
 Redefining Security Podcast: https://www.itspmagazine.com/redefining-security
-
-Reddup Securty: https://reddupsec.podbean.com/
 
 Risky Business https://risky.biz
 
@@ -236,6 +234,7 @@ Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
 
 Rebooting: https://www.youtube.com/c/RebootingVlog
 
+Reddup Securty: https://reddupsec.podbean.com/
 
 ---
 
