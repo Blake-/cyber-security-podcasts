@@ -88,6 +88,8 @@ The Hacker Factory: https://www.itspmagazine.com/the-hacker-factory-podcast
 
 Hacker Mind: https://thehackermind.com/
 
+Hacker Talk: https://anchor.fm/hacker-talk
+
 Hacker Valley: https://hackervalley.com/
 
 Hacking Humans: https://thecyberwire.com/podcasts/hacking-humans
@@ -138,17 +140,9 @@ Risky Business https://risky.biz
 
 Section 9: https://section9.us/podcast
 
-Secjuice Radio: https://secjuice.podbean.com/
-
 SecTools Podcast Series from Infosec Campus: https://infoseccampus.com/
 
-Security Current: https://securitycurrent.com/podcasts/
-
-Security Headlines: https://anchor.fm/firo-solutions
-
 Security In 5: https://securityinfive.com/
-
-Security In Color: https://anchor.fm/sic
 
 Security Legder: https://securityledger.com/category/podcasts/
 
@@ -174,11 +168,7 @@ Shared Security: https://sharedsecurity.net/
 
 Smashing Security: https://www.smashingsecurity.com/
 
-Social-Engineer Podcast: https://www.social-engineer.org/category/podcast/
-
-Something Something Cyber: https://podcasts.apple.com/us/podcast/something-something-cyber/id1524396304
-
-Southern Fried Security: https://southernfriedsecurity.com/ (retired)
+Social-Engineer Podcast: https://www.social-engineer.org/podcasts/
 
 TEISS: https://www.teiss.co.uk/category/media/podcast/
 
@@ -235,6 +225,19 @@ Positvely Blue Team: https://www.youtube.com/channel/UCn3ubU-KnCznjNHcNPmWlUg
 Rebooting: https://www.youtube.com/c/RebootingVlog
 
 Reddup Securty: https://reddupsec.podbean.com/
+
+Secjuice Radio: https://secjuice.podbean.com/
+
+Security Current: https://securitycurrent.com/podcasts/
+
+Security Headlines: https://anchor.fm/firo-solutions
+
+Security In Color: https://anchor.fm/sic
+
+Something Something Cyber: https://podcasts.apple.com/us/podcast/something-something-cyber/id1524396304
+
+Southern Fried Security: https://southernfriedsecurity.com/ (retired)
+
 
 ---
 
