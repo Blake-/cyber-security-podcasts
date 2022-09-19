@@ -174,23 +174,17 @@ TEISS: https://www.teiss.co.uk/category/media/podcast/
 
 Threatpost: https://threatpost.com/category/podcasts/
 
-Threatwire: https://snubsie.com/threatwire
+To The Point: https://www.forcepoint.com/resources/podcasts
 
-To The Point: https://podcasts.apple.com/us/podcast/to-the-point-cybersecurity/id1438873656
-
-Trust Me I'm Certified: https://www.giac.org/podcasts
-
-Unsecurity: https://podcasts.apple.com/us/podcast/unsecurity-information-security-podcast/id1442520920
+Unsecurity: https://frsecure.com/unsecurity/
 
 Unsupervised Learning: https://danielmiessler.com/podcast/
 
-We Hack Purple: https://wehackpurple.com/podcast.html
-
-Your Everyday Cyber Podcast: https://www.itspmagazine.com/your-everyday-cyber-podcast
+We Hack Purple: https://wehackpurple.com/podcasts/
 
 ---
 
-Seems to have stopped podcasting:
+Seem to have stopped podcasting:
 
 10 Questions Podcast: https://anchor.fm/10questions/
 
@@ -236,8 +230,13 @@ Security In Color: https://anchor.fm/sic
 
 Something Something Cyber: https://podcasts.apple.com/us/podcast/something-something-cyber/id1524396304
 
-Southern Fried Security: https://southernfriedsecurity.com/ (retired)
+Southern Fried Security: https://southernfriedsecurity.com/ 
 
+Threatwire: https://snubsie.com/threatwire
+
+Trust Me I'm Certified: https://www.giac.org/podcasts
+
+Your Everyday Cyber Podcast: https://www.itspmagazine.com/your-everyday-cyber-podcast
 
 ---
 
