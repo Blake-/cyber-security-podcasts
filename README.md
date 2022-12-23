@@ -30,11 +30,13 @@ CISO Tradecraft: https://podcasts.apple.com/us/podcast/ciso-tradecraft/id1538132
 
 Cloud Security: https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I
 
-Crypto-Gram Security Podcast (Audio of Bruce Schneier's Monthly Crypto-Gram Security Newsletter) : https://crypto-gram.libsyn.com/
+Crypto-Gram Security Podcast (Audio of Bruce Schneier's Monthly Crypto-Gram Security Newsletter): https://crypto-gram.libsyn.com/
+
+CS2AI Control System Cyber Security Association International: (CS)²AI: https://www.cs2ai.org/podcast
 
 Cyber Crime Radio: https://soundcloud.com/cybercrimemagazine
 
-The Cyber Pro Podcast: https://cyberpropodcast.podbean.com/
+Cyber Pro Podcast: https://cyberpropodcast.podbean.com/
 
 Cyber Humantiy from Immersive: https://www.immersivelabs.com/resources/podcast/
 
