@@ -180,6 +180,8 @@ To The Point: https://www.forcepoint.com/resources/podcasts
 
 Unsecurity: https://frsecure.com/unsecurity/
 
+Unsolicited Response Podcast: https://dale-peterson.com/podcast-2/
+
 Unsupervised Learning: https://danielmiessler.com/podcast/
 
 We Hack Purple: https://wehackpurple.com/podcasts/
