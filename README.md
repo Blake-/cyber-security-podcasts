@@ -144,6 +144,8 @@ Section 9: https://section9.us/podcast
 
 SecTools Podcast Series from Infosec Campus: https://infoseccampus.com/
 
+Security. Cryptography. Whatever.: https://securitycryptographywhatever.buzzsprout.com/
+
 Security In 5: https://securityinfive.com/
 
 Security Legder: https://securityledger.com/category/podcasts/
