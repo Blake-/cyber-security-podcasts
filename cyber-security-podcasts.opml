@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<outline text="Infosec Podcasts" title="Infosec Podcasts">
+			<outline text="Security. Cryptography. Whatever." title="Security. Cryptography. Whatever." type="rss" version="RSS" htmlUrl="https://feeds.buzzsprout.com/1822302.rss" xmlUrl="https://feeds.buzzsprout.com/1822302.rss"/>
 			<outline text="Unsolicited Response Podcast" title="Unsolicited Response Podcast" type="rss" version="RSS" htmlUrl="https://feeds.libsyn.com/99465/rss" xmlUrl="https://feeds.libsyn.com/99465/rss"/>
 			<outline text="The 443 - Security Simplified" title="The 443 - Security Simplified" type="rss" version="RSS" htmlUrl="https://www.secplicity.org/" xmlUrl="https://www.secplicity.org/feed/podcast/"/>
 			<outline text="7 Minute Security" title="7 Minute Security" type="rss" version="RSS" htmlUrl="https://7ms.us/" xmlUrl="https://feeds.libsyn.com/254153/rss"/>
