@@ -86,6 +86,8 @@ ESET: https://www.eset.com/us/about/newsroom/podcast-list/
 
 GDPR Now: https://gdprnow.fireside.fm/
 
+Getting Into Infosec: https://www.gettingintoinfosec.com/
+
 Great Security Debate: https://www.greatsecuritydebate.net/
 
 The Hacker Factory: https://www.itspmagazine.com/the-hacker-factory-podcast
