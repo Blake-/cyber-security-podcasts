@@ -28,6 +28,8 @@ CISO Series: https://cisoseries.com/podcast/
 
 CISO Tradecraft: https://podcasts.apple.com/us/podcast/ciso-tradecraft/id1538132658
 
+Cloud Ace Podcast: https://www.sans.org/podcasts/cloud-ace/
+
 Cloud Security: https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I
 
 Crypto-Gram Security Podcast (Audio of Bruce Schneier's Monthly Crypto-Gram Security Newsletter): https://crypto-gram.libsyn.com/
