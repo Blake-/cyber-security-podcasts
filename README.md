@@ -38,6 +38,8 @@ CS2AI Control System Cyber Security Association International: (CS)²AI: https:/
 
 Cyber Crime Radio: https://soundcloud.com/cybercrimemagazine
 
+Cyber CEOs Decoded: https://thecyberwire.com/podcasts/cyber-ceos-decoded
+
 Cyber Pro Podcast: https://cyberpropodcast.podbean.com/
 
 Cyber Humantiy from Immersive: https://www.immersivelabs.com/resources/podcast/
