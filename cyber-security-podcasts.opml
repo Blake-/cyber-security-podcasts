@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<outline text="Infosec Podcasts" title="Infosec Podcasts">
+			<outline text="Cyber CEOs Decoded" title="Cyber CEOs Decoded" type="rss" version="RSS" htmlUrl="https://feeds.megaphone.fm/cyber-ceos-decoded" xmlUrl="https://feeds.megaphone.fm/cyber-ceos-decoded"/>
 			<outline text="Getting Into Infosec" title="Getting Into Infosec" type="rss" version="RSS" htmlUrl="https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss" xmlUrl="https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss"/>
 			<outline text="Security. Cryptography. Whatever." title="Security. Cryptography. Whatever." type="rss" version="RSS" htmlUrl="https://feeds.buzzsprout.com/1822302.rss" xmlUrl="https://feeds.buzzsprout.com/1822302.rss"/>
 			<outline text="Cloud Ace Podcast" title="Cloud Ace Podcast" type="rss" version="RSS" htmlUrl="https://podcasts.apple.com/us/podcast/cloud-ace/id1646566112" xmlUrl="https://podcasts.apple.com/us/podcast/cloud-ace/id1646566112"/>
