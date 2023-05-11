@@ -180,6 +180,8 @@ Smashing Security: https://www.smashingsecurity.com/
 
 Social-Engineer Podcast: https://www.social-engineer.org/podcasts/
 
+SOCTales https://feeds.buzzsprout.com/2040556.rss
+
 TEISS: https://www.teiss.co.uk/category/media/podcast/
 
 Threatpost: https://threatpost.com/category/podcasts/
