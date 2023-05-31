@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<outline text="Infosec Podcasts" title="Infosec Podcasts">
+			<outline text="DISCARDED: Tales from the Threat Research Trenches" title="DISCARDED: Tales from the Threat Research Trenches" type="rss" version="RSS" htmlUrl="https://www.spreaker.com/show/5745431/episodes/feed" xmlUrl="https://www.spreaker.com/show/5745431/episodes/feed"/>
 			<outline text="SOCTales" title="SOCTales" type="rss" version="RSS" htmlUrl="https://feeds.buzzsprout.com/2040556.rss" xmlUrl="https://feeds.buzzsprout.com/2040556.rss"/>
 			<outline text="Cyber CEOs Decoded" title="Cyber CEOs Decoded" type="rss" version="RSS" htmlUrl="https://feeds.megaphone.fm/cyber-ceos-decoded" xmlUrl="https://feeds.megaphone.fm/cyber-ceos-decoded"/>
 			<outline text="Getting Into Infosec" title="Getting Into Infosec" type="rss" version="RSS" htmlUrl="https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss" xmlUrl="https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss"/>
