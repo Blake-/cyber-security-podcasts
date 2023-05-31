@@ -80,6 +80,8 @@ Defensive Security Podcast: https://defensivesecurity.org/category/podcast/
 
 Digital Forensic Survival Podcast: https://digitalforensicsurvivalpodcast.com/
 
+DISCARDED: Tales from the Threat Research Trenches: https://www.proofpoint.com/us/podcasts/discarded
+
 Down The Security Rabbithole: http://podcast.wh1t3rabbit.net/
 
 Easy Prey: https://www.easyprey.com/
